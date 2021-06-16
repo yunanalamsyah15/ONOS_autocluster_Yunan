@@ -10,7 +10,7 @@ This script is intended to automatically deploy an ONOS cluster, a fork from ori
 - `sudo apt install jq python-is-python2`
 
 ## Steps to do
-- Run `git clone https://github.com/abazh/ONOS_autocluster.git`
+- Run `git clone https://github.com/yunanalamsyah15/ONOS_autocluster_Yunan.git`
 > You may encounter problem when running the script if jq and python2 is not install on your server
 > Just install the dependencies `sudo apt install jq python-is-python2`
 - Go the directory `cd ONOS_autocluster`
